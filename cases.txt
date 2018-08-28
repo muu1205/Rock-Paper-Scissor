@@ -1,0 +1,14 @@
+rrrrrr
+pppppp
+ssssss
+
+rsrsrs	rprprp
+prprpr	pspsps
+srsrsr	spspsp
+
+rpsrps	psrpsr	srpsrp
+sprspr	prsprs	rsprsp
+
+rrpsrrps	rrsprrsp
+pprspprs	ppsrppsr
+ssrpssrp	ssprsspr

@@ -1,0 +1,6 @@
+rock - 340
+paper - 266
+scissors - 258
+win - 442
+lost - 225
+tie - 197
